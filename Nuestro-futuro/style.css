@@ -1,0 +1,14 @@
+header {
+    display:flex;
+    justify-content:space-between;
+    position:relative;
+}
+
+nav {
+    display:flex;
+    gap:15px;
+}
+
+#our-uni{
+    display:flex;
+}
